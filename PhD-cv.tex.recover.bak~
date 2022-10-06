@@ -74,7 +74,7 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \namesection{Kunal}{Ghosh}{ \urlstyle{same}
-\href{mailto:kunal.t2@gmail.com}{kunal.t2@gmail.com} | \href{https://orcid.org/0000-0003-0200-5107}{ORCID:0000-0003-0200-5107} | github.com/kunalghosh
+\href{mailto:kunal.t2@gmail.com}{kunal.t2@gmail.com} | +358-0465645531 | github.com/kunalghosh
 }
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -83,31 +83,23 @@
 %
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-\begin{minipage}[t]{0.35\textwidth} 
+\begin{minipage}[t]{0.33\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EDUCATION
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Education} 
-
-\textbullet{} \textbf{Deep|Bayes Summer School}\\ 
-\location{Moscow, Aug 2019.}
-%\sectionsep
-
-\textbullet{} \textbf{Machine Learning Summer School}\\ 
-\location{Madrid, Aug 2018.}
-\sectionsep
-
-\textbullet{} \textbf{Master's in Computer Science}\\
-Major: Machine Learning and Data Mining\\
+\subsection{Masters}
+Machine Learning and Data Mining\\
 Minor: Mathematics\\
 Aalto University, Helsinki, Finland\\
 GPA - 4.63/5\\
 \location{Graduated (with Honours) Nov 2017}
 \sectionsep
 
-\textbullet{} \textbf{Bachelor's in Computer Science}\\
+\subsection{Undergraduate}
+Computer Science\\
 Visvesvaraya Technological University\\
 \location{Grad May 2011 | Bangalore, India}
 
@@ -117,9 +109,9 @@ Visvesvaraya Technological University\\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \section{Coursework}
-\subsection{Master's}
+\subsection{Masters}
 \textbullet{} Deep Learning\\
-\textbullet{} Gaussian Processes\\
+\textbullet{} Gaussian Processes
 \textbullet{} Kernel Methods\\
 \textbullet{} Machine learning advanced probabilistic methods\\
 \textbullet{} Bayesian Data Analysis\\
@@ -128,41 +120,25 @@ Visvesvaraya Technological University\\
 \textbullet{} Algorithmic Methods of Data Mining\\
 \textbullet{} Convex Optimization \\
 \textbullet{} Computational Science \\
-% \textbullet{} Information Retrieval
+\textbullet{} Information Retrieval
 \textbullet{} Programming Parallel Computers \\
 \sectionsep
 
-% \subsection{MOOC}
-% \location{Learning From Data (edX.org):}
-% \textbullet{} Instructor : Prof Yaser (Caltech)\\
-% \textbullet{} 10 week long Machine Learning course with 8 homework sets and \\a final exam
-% \textbullet{} Assignments done using \\ \textbf{Matlab and LibSVM}\\
-% \textbullet{} Course with significant theoretical content. Topics include : Theory of Generalization, VC Dimensions, Kernel Methods and SVM
-% \textbullet{} Grade: 80\%
+\subsection{MOOC}
+\location{Learning From Data (edX.org):}
+\textbullet{} Instructor : Prof Yaser (Caltech)\\
+\textbullet{} 10 week long Machine Learning course with 8 homework sets and \\a final exam
+\textbullet{} Assignments done using \\ \textbf{Matlab and LibSVM}\\
+\textbullet{} Course with significant theoretical content. Topics include : Theory of Generalization, VC Dimensions, Kernel Methods and SVM
+\textbullet{} Grade: 80\%
 
-% \sectionsep
-% \location{Machine Learning (Coursera):}
-% \textbullet{} Instructor : Prof Andrew (Stanford)\\
-% \textbullet{} 10 week long course.\\
-% \textbullet{} Assignments done in \textbf{Octave}.\\
-% \textbullet{} Practical course focusing more on applications of machine learning.\\
-% \textbullet{} Grade: 100\%
-
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     TEACHING
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Teaching} 
-% \vspace{\topsep} % Hacky fix for awkward extra vertical space
-\textbf{Teaching assistant for Courses on:}\\
-\textbullet{} \textbf{Deep Learning} 2016-2020\\
-% \textbullet{} 2019 - TA \footnotesize{($\sim$250 students)} \\
-% \textbullet{} 2018 - TA \footnotesize{($\sim$250 students)} \\
-% \textbullet{} 2017 - TA \footnotesize{($\sim$250 students)} \\
-% \textbullet{} 2016 - Main TA, \footnotesize{\textit{Seminar course} ($\sim$40 students)}
-\textbullet{} \textbf{Bayesian Data Analysis} 2018-2020 \\
-
-
+\sectionsep
+\location{Machine Learning (Coursera):}
+\textbullet{} Instructor : Prof Andrew (Stanford)\\
+\textbullet{} 10 week long course.\\
+\textbullet{} Assignments done in \textbf{Octave}.\\
+\textbullet{} Practical course focusing more on applications of machine learning.\\
+\textbullet{} Grade: 100\%
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -172,7 +148,7 @@ Visvesvaraya Technological University\\
 \section{Skills}
 %\subsection{Programming}
 \location{Good with:}
-\textbullet{} Python (Including  PyTorch, Numpy, Scipy, SciKit Learn and working knowledge of Tensorflow) \textbullet{} Matlab \& Octave  \textbullet{} Apache Spark \\
+\textbullet{} Python (Including Theano, Numpy, Scipy, SciKit Learn) \textbullet{} Matlab \& Octave  \textbullet{} Apache Spark \\
 \sectionsep
 \location{Some knowledge of:}
 \textbullet{} C \textbullet{} C++ (Cuda \& OpenMP) \textbullet{} Stan (Probabilistic Programming) \textbullet{} SQL \textbullet{} Shell Scripting \textbullet{} Java \textbullet{} \LaTeX \textbullet{} Apache Lucene \\
@@ -185,7 +161,7 @@ Visvesvaraya Technological University\\
 
 \end{minipage} 
 \hfill
-\begin{minipage}[t]{0.62\textwidth} 
+\begin{minipage}[t]{0.66\textwidth} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     EXPERIENCE
@@ -193,22 +169,14 @@ Visvesvaraya Technological University\\
 
 \section{Work Experience}
 \runsubsection{AALTO University}
-\descript{| Doctoral Candidate}
-\location{June 2018 - now | Espoo, Finland}
+\descript{| Research Assistant}
+\location{April 2018 - September 2018 | Espoo, Finland}
 \vspace{\topsep} % Hacky fix for awkward extra vertical space
 \begin{tightemize}
-\item Developing novel machine learning models and algorithms for applications in materials science. Supervised by Prof. Aki Vehtari (Dept. Computer Science) and Prof. Patrick Rinke (Dept. of Applied Physics).
+\item Working on black-box variational inference techniques with Dr. Michael Riis Andersen and Prof. Vehtari (Dept. Computer Science)
 \end{tightemize}
 \sectionsep
 
-\runsubsection{PyMC}
-\descript{| Google Summer of Code}
-\location{2022 | Espoo, Finland}
-\vspace{\topsep} % Hacky fix for awkward extra vertical space
-\begin{tightemize}
-\item Implementing a GPU accelerated Gaussian process inference in PyMC. \href{https://summerofcode.withgoogle.com/proposals/details/D0vXBd2x}{Link}.
-\end{tightemize}
-\sectionsep
 
 \runsubsection{AALTO University}
 \descript{| Research Assistant - Honours Program}
@@ -217,7 +185,7 @@ Visvesvaraya Technological University\\
 \begin{tightemize}
 	\item Developed deep learning models to predict molecular electronic properties. Supervised by Prof. Vehtari (Dept. Computer Science) and advised by Prof. Patrick Rinke (Dept. Applied Physics).
 	
-	% \item Studied semi-supervised extensions of the Variational Auto-Encoder and related models. Supervised by Prof. Tapani Raiko, Prof. Aki Vehtari and advised by Dr. Jyri Kivinen. 
+	\item Studied semi-supervised extensions of the Variational Auto-Encoder and related models. Supervised by Prof. Tapani Raiko, Prof. Aki Vehtari and advised by Dr. Jyri Kivinen. 
 \end{tightemize}
 \sectionsep
 
@@ -239,42 +207,46 @@ Visvesvaraya Technological University\\
 % \end{tightemize}
 \sectionsep
 
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%     THESIS & PUBLICATIONS
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\section{Thesis \& Publications} 
-\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
-%%\bibliographystyle{abbrv}
-%\bibliographystyle{plainyr}
-%%\bibliographystyle{natbib}
-%%\bibliographystyle{authoryear}
-%\bibliography{publications}
-%\nocite{*}
-\small{
-\textbullet{}Christoph Schattauer, Milica Todorović, \textbf{Kunal Ghosh}, Patrick Rinke, and Florian Libisch. \textit{Machine Learning Sparse Tight-Binding Parameters for Defects}. Nature Npj Computational Materials, 2022. \href{https://doi.org/10.1038/s41524-022-00791-x.}{Link}.
+\runsubsection{OwnCloud.org}
+\descript{| Google Summer of Code Intern }
+\location{May 2011 – Aug 2011}
+% \begin{tightemize}
+% \item Implemented a prototype file synchronization system for OwnCloud. Implemented the SyncML server component in PhP and a prototype desktop client using the Funambol SyncML SDK.
+% \end{tightemize}
 \sectionsep
 
-\textbullet{} \textbf{Kunal Ghosh}, Annika Stuke, Milica Todorovi\'c, Peter Bj{\o}rn J{\o}rgensen, Mikkel N. Schmidt, Aki Vehtari and Patrick Rinke.  \textit{Deep learning spectroscopy: neural networks for molecular excitation spectra}, Wiley Advanced Science, 2019. \href{https://onlinelibrary.wiley.com/doi/full/10.1002/advs.201801367}{Link}.
+\runsubsection{DigiKam.org}
+\descript{| Season of KDE Intern}
+\location{May 2010 – Sept 2010}
+% \begin{tightemize}
+% \item Prototyped the Integration of Qt Script, Javascript scripting API into the Digikam app.
+% \end{tightemize}
 \sectionsep
 
-\textbullet{} Annika Stuke, Milica Todorovi{\'{c}}, Matthias Rupp, Christian Kunkel, \textbf{Kunal Ghosh}, Lauri Himanen and Patrick Rinke  \textit{Chemical diversity in molecular orbital energy predictions with kernel ridge regression}, Journal of Chemical Physics, 2019. \href{https://aip.scitation.org/doi/10.1063/1.5086105}{Link}
-\sectionsep
-
-\textbullet{} \textit{Deep Learning for Predicting Molecular Electronic Properties.}, Master's Thesis, Aalto University, 2017, \href{http://urn.fi/URN:NBN:fi:aalto-201710307417}{Link}
-}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     TEACHING
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
-%\section{Teaching} 
-%\vspace{\topsep} % Hacky fix for awkward extra vertical space
-%\begin{tightemize}
-%	\item 2017 - Teaching Assistant, \textit{Deep Learning}, Aalto University. ($\sim$250 students)
-%	\item 2016 - Main Teaching Assistant, \textit{Seminar course on Deep Learning}, Aalto University. ($\sim$40 students)
-%\end{tightemize}
+\section{Teaching} 
+\vspace{\topsep} % Hacky fix for awkward extra vertical space
+\begin{tightemize}
+\item 2017 - Teaching Assistant, \textit{Deep Learning}, Aalto University. ($\sim$250 students)
+\item 2016 - Main Teaching Assistant, \textit{Seminar course on Deep Learning}, Aalto University. ($\sim$40 students)
+\end{tightemize}
 
-	
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%     THESIS & PUBLICATIONS
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\section{Thesis \& Conference Abstracts} 
+\renewcommand\refname{\vskip -1.5cm} % Couldn't get this working from the .cls file
+% \bibliographystyle{abbrv}
+\bibliographystyle{plainyr}
+%\bibliographystyle{natbib}
+\bibliography{publications}
+\nocite{*}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %     AWARDS
@@ -282,9 +254,7 @@ Visvesvaraya Technological University\\
 
 \section{Awards} 
 \begin{tabular}{p{0.05\linewidth}p{0.8\linewidth}}
-2020 & \textbf{Research Grant} (26000 €) from the Finnish cultural foundation and was featured on their website. \href{https://skr.fi/en/whats-new/five-hundred-full-year-grants-cultural-foundation}{Link}\\
-2018 & \textbf{Travel Grant} (1000 €) from the Education Network in Condensed Matter and Materials Physics, Dept. of Applied Physics, Aalto University.\\
-2016  & Inducted into the Machine Learning \textbf{Honours Program} at Aalto University. Awarded for maintaining good progress in studies (completed 63 ECTS out of 90 in the 1st year) while maintaining good grades (4.55 out of 5)\\ 
+    2016  & Inducted into the Machine Learning \textbf{Honours Program} at Aalto University. Awarded for maintaining good progress in studies (completed 63 ECTS out of 90 in the 1st year) while maintaining good grades (4.55 out of 5)\\ 
 2014  & 2\textsuperscript{nd}/100 teams. Amazon Internal Machine Learning Contest. \\%(Predict Customer Support communcation method {Phone/Email} based on customer hisory). \\
 2013  & \textbf{99.5 percentile}  in \href{http://www.gate.iitb.ac.in/gate2013/cs-syllabus/}{GATE 2013}. 1019\textsuperscript{th}/224160 candidates.\\
 2004  & 29\textsuperscript{th}/\textasciitilde2x10\textsuperscript{5} candidates. National Talent Search Scholarship. State Level.\\
